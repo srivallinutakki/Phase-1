@@ -1,3 +1,0 @@
-<td [class.inStock]="true">
-    {{ product.price}}
-</td>
